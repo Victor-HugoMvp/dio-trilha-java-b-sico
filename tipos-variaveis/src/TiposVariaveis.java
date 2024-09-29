@@ -7,7 +7,5 @@ public class TiposVariaveis {
 
         //tipo de texto
         String nome ="Pablo";
-
-        
     }
 }
