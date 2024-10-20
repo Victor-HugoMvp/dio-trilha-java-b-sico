@@ -6,6 +6,7 @@ public class PlanoOperadora{
         switch (plano){
             case "T": {
                 System.out.println("5gb Youtube");
+                break;
             }
             case "M": {
                 System.out.println("Whats e Instagram grátis");
