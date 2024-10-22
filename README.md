@@ -1,2 +1,2 @@
 # dio-trilha-java-b-sico
-Repositório para exerrcícios do curso de java
+Repositório para exercícios do curso de java
